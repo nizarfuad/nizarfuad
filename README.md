@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**nizarfuad/nizarfuad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently a Student
 - 🌱 I’m currently learning Javascript, & CSS
 - 👯 I’m looking to collaborate on Nothing:v
@@ -12,4 +7,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Instagram "nizar.gdem"
 - 😄 Pronouns: Tolol
 - ⚡ Fun fact: Semoga saya masuk universitas idaman saya;v
--->
+
+Jangan macam macam sama saya! nanti saya hengk akun ngep ngep anda:v KAwokaowkaow
+Hanya seorang pelajar SMA, yang berusaha mempelajari Webdevelopment. "saya amatir jangan hujat pls;v"
+
+CURRENTLY PLAYING GAME:
+- Mobile Legends: Bang Bang
+- Minecraft
+HP & LAPTOP saya kentang pak, cuma kuat main 2 game itu doang ;v
+TIDAK MAIN GAME FourNohh, AKWOKAOWKAOKW.
